@@ -49,9 +49,10 @@ Not permitted. These are, IMHO, abominations. In fact, I refer to them as “Abo
 
 Not permitted. While I understand the allure of good gin, vermouth is part of the cocktail. The original recipe was 2 parts gin to 1 part vermouth – which I still do in cases where the vermouth outshines the gin. Most of the time omitting vermouth happens because one has had a bad experience with off (vermouth does eventually go stale like any wine) or mediocre vermouth. Many bars unfortunately don’t always stock good vermouth or do not check their freshness. In these cases, by all means order a gin straight, but don’t call it a martini. On a side note, I commonly see this with Bombay Sapphire lovers. Personally, I’ve come to the conclusion that Sapphire does not pair well with vermouth, but is delicious straight and makes an excellent gin and tonic.
 
-### Size Matters
 >"One martini is all right. Two are too many, 
 and three are not enough"
+
+### Size Matters
 
 *New Yorker* cartoonist <a target='\_blank' href='https://en.wikipedia.org/wiki/James_ThurberCartoonist'>James Thurber</a> once said, "One martini is all right. Two are too many, and three are not enough". Alluding to how their potency can send one over the edge. However, my grandmother reversed the phrase one evening after inexplicably walking off a perfectly sound pier into a lake. After which she declared, "two are not enough and three are definitely too many". It’s important to keep in mind that my grandmother drank martinis out of 4oz glasses. Served in this volume, two cocktails are not unreasonable. However, today it is common to find high-end bars serving $20 martinis in glasses that appear to have the volume of upside-down highway cones. There are two problems with this; One drink now becomes too many...and perhaps more importantly, sipped in moderation the liquid eventually begins to warm. There is nothing more off-putting than drinking a warm martini...and wasting $20 to boot!
 
