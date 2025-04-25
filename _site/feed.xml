@@ -5,9 +5,94 @@
     <description>Wine+Software by Bill Langley</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Jan 2025 17:38:40 -0800</pubDate>
-    <lastBuildDate>Sat, 25 Jan 2025 17:38:40 -0800</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Thu, 24 Apr 2025 22:03:30 -0700</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 22:03:30 -0700</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>The Wine Bleat. &lt;br&gt;Episode 1.</title>
+        <description>&lt;h3 id=&quot;tufer-one&quot;&gt;Tufer One&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/linkedin-header-4.jpeg&quot; width=&quot;100%&quot; /&gt;&lt;br /&gt;Welcome to the inaugural edition of The Wine Bleat! In this space, I’ll be sharing musings and insights about the DtC wine business, alongside my colleague Nello, right from our cozy corner of Sonoma County at Pellegrini Family Winery. Together, we’ll dive into the challenges and nuances of the day-to-day in the wine world, offering a fresh perspective on the ever-evolving industry.
+A bit about me: I’m a software engineer, building innovative applications tailored to the wine industry, driven by the knowledge and experience I’ve gained here at the winery.
+Oh, and one small detail I almost forgot to mention—Nello? He’s a sheep.
+Let’s get started!&lt;/p&gt;
+
+&lt;p&gt;While closing up after a busy day I suddenly heard a familiar bell noise at the tasting room barn door. I kept my head down on my computer hoping it would discourage any engagement.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“What did Tufer win?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nello has a habit of starting conversations while I’m trying to close up and get home.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Huh”&lt;/em&gt;, keeping my head down and acting uninterested.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I overheard somebody named Tufer, or…something like that, won something. But I didn’t hear what it was.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Sigh”&lt;/em&gt;, I stopped and looked into space for a moment trying to comprehend Nello’s bleating. You do this a lot with sheep.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Sorry, I have no idea what you are talking about.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nello snorts. Now we’re both frustrated.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“That last couple walked in, right? And handed you some piece of paper, right?  And you said, ‘Ah, Tufer won!’”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Me. Hand-to-face. &lt;em&gt;“Nello, that paper was a 2-for-1 coupon. It entitles them to 2 tastings for the price of 1”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Oh, where did they get that?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“We hand them out to wineries, hotels, tour guides… Anyone we think will send us good leads”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Leads? Like for a horse? Wait, you’re not putting me on a lead. Sheep don’t gallop!”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Nello, calm down. Leads, in this case, our pre-qualified customers. One of our neighbor wineries recommended this customer see us because they thought they might like our wines.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Oh… Wait, why would another winery recommend us? Don’t they want to sell their own wine?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Yes, but most customers go to more than one and we want them to enjoy our little region so they come back. We’d do the same for them.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Hmm, makes sense, I guess.. So, did they like our wine?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Yep, joined the club”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Wow! So it works! Give me some.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Don’t  be silly. You’d just eat them. Anyway, it’s not guaranteed, but generally better than our random visitors”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“How much better?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Ah, I don’t know…exactly”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nello goes silent, finally. But…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“What?!”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Sorry, I just thought a big shot software engineer would know these things.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This got me out of my chair, but Nello was already gone.&lt;/p&gt;
+
+&lt;p&gt;I had to admit. Nello had a point. We all know that qualified leads are better than random ones. But if we’re not measuring them how do we really know? And, which leads are better than others? Are we talking sales? Conversions? Both? 2-for-1 tasting coupons are the standard, but are there better offers we can do? And what about the referrers? Are some better than others?&lt;/p&gt;
+
+&lt;p&gt;With that in mind, I got to coding. Yno Neighborly is a simple Commerce7 app that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Creates printable coupons that are assigned to individual referrers&lt;/li&gt;
+  &lt;li&gt;Tracks referrer sales/conversion performance&lt;/li&gt;
+  &lt;li&gt;Tracks referred customer performance over time&lt;/li&gt;
+  &lt;li&gt;Tracks overall referred sales/conversion performance vs. non-referred&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Get it now at https://neighborly.wine&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Apr 2025 05:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2025/wine-bleat-001/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/wine-bleat-001/</guid>
+        
+        <category>wine software D2C referrals</category>
+        
+        
+        <category>Wine</category>
+        
+      </item>
     
       <item>
         <title>Yno Neighborly</title>
@@ -670,31 +755,6 @@ and three are not enough”&lt;/p&gt;
         
         
         <category>Wine</category>
-        
-      </item>
-    
-      <item>
-        <title>Yno Wine Trivia</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/yno_trivia_logo_512.png&quot; alt=&quot;Yno Wine Trivia&quot; class=&quot;portfolio-hero-image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What “non-existent” wine did Ellen Barkin offer Matt Damon in &lt;em&gt;Oceans 13&lt;/em&gt;? Where does &lt;em&gt;Gruner Veltliner&lt;/em&gt; come from? These questions and more are answered by &lt;a href=&quot;https://www.amazon.com/Brainstorm-Creative-Wine-Trivia/dp/B071Y1HRP1/ref=sr_1_1?s=digital-skills&amp;amp;ie=UTF8&amp;amp;qid=1503377224&amp;amp;sr=1-1&amp;amp;keywords=wine+trivia&quot;&gt;Yno Wine Trivia&lt;/a&gt;. A fun Alexa skill to play with friends or study for WSET, Sommelier, or CSW tests.&lt;/p&gt;
-
-&lt;h2 id=&quot;curiosity-and-study&quot;&gt;Curiosity and Study&lt;/h2&gt;
-&lt;p&gt;“How do I learn more about wine?” As a wine educator I’ve encountered this question more times than I can remember. The problem is wine is a daunting subject. I often refer to it as the world‘s 2nd oldest profession. It‘s history, viticulture, and production go back centuries. So, where does one start to get a taste of what it‘s like to learn about wine?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;From my own journey with wine I’ve found that large part of it’s enjoyment starts with education&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;alexa-fied&quot;&gt;Alexa-fied&lt;/h2&gt;
-&lt;p&gt;Voice-enabled digital assistants are fast becoming the next consumer must-have. Amazon’s Alexa is an industry leader. The simple act of asking a question without reaching for a mobile device or tapping a keyboard breaks down barriers for software developers. In addition, Alexa’s built-in trivia skill makes it even easier. I could not build an app like Yno Wine Trivia as fun and compelling without Alexa. Nor could I build it as fast.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Apr 2017 01:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/yno-trivia/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/yno-trivia/</guid>
-        
-        
-        <category>Software</category>
         
       </item>
     
